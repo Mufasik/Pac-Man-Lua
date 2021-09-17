@@ -7,4 +7,4 @@
 
 Управление: Пробел - обновить карту, WASD - перемещение, ESC - выход
 
-![GitHub Logo](/logo.jpg)
+![GitHub Logo](/logo2.jpg)
