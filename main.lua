@@ -41,7 +41,7 @@ end
 
 function love.draw()
   if game_started then
-    --world.draw()
+    world.draw()
     player.draw()
   end
 end
