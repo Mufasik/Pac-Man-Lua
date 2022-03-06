@@ -1,5 +1,5 @@
 # Pac-Man-Project
-Пакман на lua + love2d (в разработке)
+Пакман на lua + love2d
 
 Используется фреймворк https://love2d.org
 
